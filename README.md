@@ -1,18 +1,16 @@
 # dorksscan
 Dork Scanner v1
 
-Install with Termux
+#Install with Termux
 
-$cd /sdcard
+  $pkg install git
 
-$pkg install git
+  $git clone https://github.com/maschil/dorksscan
 
-$git clone https://github.com/maschil/dorksscan
+  $cd dorksscan
 
-$cd dorkscan
+  $ls
 
-$ls
-
-$python2 dorkscan.py
+  $python2 dorkscan.py
 
 Jangan Lupa Follow Bosku , Mau recode..? Karepmu Njing
