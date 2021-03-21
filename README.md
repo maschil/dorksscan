@@ -15,4 +15,4 @@ $ls
 
 $python2 dorkscan.py
 
-Enjoy
+Jangan Lupa Follow Bosku , Mau recode..? Karepmu Njing
